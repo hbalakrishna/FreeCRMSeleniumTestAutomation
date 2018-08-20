@@ -6,7 +6,7 @@ Designing a Test Automation for the CRM Website using Page Object Model with fac
 
 Technologies Used: 
 ------------------
-- Selenium WebDriver - v3.0.4 (Open Source) 
+- Selenium WebDriver - v3.10
 - JDK 1.8 (Java Development Kit) 
 - TestNG (Test Unit Framework) 
 - Maven (Build Automation Tool)  
